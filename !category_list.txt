@@ -1,49 +1,56 @@
-English:
+GUIDE WITH CLASSES
 
-- en_s: France *is* a country
-- en_pl: The United States *are* a country
+ENGLISH:
+The article field is either empty or has "The " (space included).
+There are two classes, en_s for singular nouns, en_pl for plural nouns.
+en_s: France is great
+en_pl: Barbarians are great
 
-French:
-- fr_fsav: *L'*Angleterre est *puissante*
-- fr_fsac: *La* France est *puissante*
-- fr_fsn: Paris est *puissante*
-- fr_msav: *L'*Oman est *puissant*
-- fr_msac: *Le* Latium est *puissant*
-- fr_msn: Gandhara est *puissant*
-- fr_fpa: *Les* Îles Normandes sont *puissantes*
-- fr_fpn: Ankara et Adana sont *puissantes*
-- fr_mpa: *Les* Gaulois sont *puissants*
-- fr_mpn: ... sont *puissants*
+FRENCH:
+The classes describe the gender (m or f), the number (s or v), the use of article (a or n)
+and the starting letter, be it vowel or consonant (v or c).
+If no article is used or if it is plural, there is no classification of the starting
+letter, as it is irrelevant as info.
+Examples:
+- fr_fsav: L'Angleterre est puissante. Angleterre is feminine, singular, uses article,
+  starts with vowel.
+- fr_mpa: Les Gaulois sont puissants. Gaulois is masculine, plural, uses article.
+- fr_fsn: Paris est puissante. Paris is feminine*, singular, uses no article.
+* Some disagree on the gender of cities in French. For ease of purpose, we'll
+  consider them feminine by account of the word ville (city).
 
-German: (example by using "Old" as prefix)
-- de_n: *Altes* Deutschland
-- de_m: Der *alte* Irak / *Alter* Irak
-- de_f: Die *alte* Slowakei / *Alte* Slowakei
-- de_pl: Die *alten* USA / *Alte* USA
+GERMAN:
+The de_n class refers to nouns that do not have a starting article, and is
+thus used for the majority of entries.
+The other four classes (de_m, de_f, de_s, de_pl) respectively say which
+article is to be used with the noun. de_m will use der (masculine),
+de_f die (feminine), de_s das (neuter) and de_pl die (plural).
 
-Spanish:
-- es_msa: *El* Papado es *poderoso*
-- es_msn: Gandhara es *poderoso*
-- es_fsa: *La* Inglaterra es *poderosa*
-- es_fsn: España es *poderosa*
-- es_mpa: *Los* Celtas son *poderosos*
-- es_mpn: ... son *poderosos*
-- es_fpa: *Las* Islas son *poderosas*
-- es_fpn: ... son *poderosas*
+SPANISH and PORTUGUESE:
+Classes describe the entry's gender (m or f), number (s or p) and
+use of article (a or n).
+Examples:
+- es_msa: El Papado es poderoso. Masculine, singular, uses article.
+- es_fsn: España es poderosa. Feminine, singular, no article.
+( pt_msa: O Papado es poderoso.)
 
-Russian:
-- ru_m: Ирак объяви*л* войну
-- ru_f: Германия объяви*ла* войну
-- ru_n: Семиречье объяви*ло* войну
-- ru_pl: США объяви*ли* войну
+RUSSIAN and POLISH:
+Classes describe the entry's gender or number (m, f, n, pl).
+The gender is described if the name is singular and omitted if
+the name in plural.
+Examples:
+- pl_m/ru_m: Irak jest wielki/Ирак объявил войну. Masculine
+- pl_pl/ru_pl: Stany Z.ne są wielkie/США объявили войну. Plural
 
-Polish:
-- pl_m: Irak jest wielk*i*
-- pl_f: Polska jest wielk*a*
-- pl_n: Portoryko jest wielk*ie*
-- pl_pl: Stany Z.ne są wielk*ie*
-
-Italian:
--
-
-Portuguese - same as Spanish, but with *pt_* instead of *es_*
+ITALIAN:
+- it_fsac: *La* Francia è *vecchia*
+- it_fsav: *L'*Inghilterra è *vecchia*
+- it_fsn: Cipro è *vecchia*
+- it_fpa: *Le* Alpi sono *vecchie*
+- it_fpn: ... sono *vecchie*
+- it_msac: *Il* Lazio è *vecchio*
+- it_msal: *Lo* Spazio è *vecchio*
+- it_msav: *L'*Everest è *vecchio*
+- it_msn: Urartu è *vecchio*
+- it_mpag: *Gli* Stati Uniti sono *vecchi*
+- it_mpai: *I* Ribelli sono *vecchi*
