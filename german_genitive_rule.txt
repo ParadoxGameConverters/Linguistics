@@ -1,0 +1,15 @@
+## BARE GENITIVE GENERATION RULES FOR GERMAN
+
+# Apostrophe-genitive
+"^(.+)s$" = { genitive = "$1s'" } # Paris --> Paris'
+"^(.+)sch$" = { genitive = "$1sch'" }
+"^(.+)ß$" = { genitive = "$1ß'" } # Herzogenschluß --> Herzogenschluß'
+"^(.+)x$" = { genitive = "$1x'" }
+"^(.+)z$" = { genitive = "$1z'" }
+
+# Genitive the same as nominative
+"^(.+)$" = { limit_class = "de_f" genitive = "$1" } # Slowakei --> Slowakei
+"^(.+)$" = { limit_class = "de_pl" genitive = "$1" } # Niederlände --> Niederlände
+
+# Fallback and general case
+"^(.+)$" = { genitive = "$1s" } # Deutschland --> Deutschlands
