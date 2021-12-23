@@ -38,10 +38,10 @@ Russian:
 - ru_pl: США объяви*ли* войну
 
 Polish:
-- pl_ms:
-- pl_fs:
-- pl_mp:
-- pl_fp:
+- pl_m: Irak jest wielk*i*
+- pl_f: Polska jest wielk*a*
+- pl_n: Portoryko jest wielk*ie*
+- pl_pl: Stany Z.ne są wielk*ie*
 
 Italian:
 -
