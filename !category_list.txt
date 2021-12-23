@@ -1,0 +1,49 @@
+English:
+
+- en_s: France *is* a country
+- en_pl: The United States *are* a country
+
+French:
+- fr_fsav: *L'*Angleterre est *puissante*
+- fr_fsac: *La* France est *puissante*
+- fr_fsn: Paris est *puissante*
+- fr_msav: *L'*Oman est *puissant*
+- fr_msac: *Le* Latium est *puissant*
+- fr_msn: Gandhara est *puissant*
+- fr_fpa: *Les* Îles Normandes sont *puissantes*
+- fr_fpn: Ankara et Adana sont *puissantes*
+- fr_mpa: *Les* Gaulois sont *puissants*
+- fr_mpn: ... sont *puissants*
+
+German: (example by using "Old" as prefix)
+- de_n: *Altes* Deutschland
+- de_m: Der *alte* Irak / *Alter* Irak
+- de_f: Die *alte* Slowakei / *Alte* Slowakei
+- de_pl: Die *alten* USA / *Alte* USA
+
+Spanish:
+- es_msa: *El* Papado es *poderoso*
+- es_msn: Gandhara es *poderoso*
+- es_fsa: *La* Inglaterra es *poderosa*
+- es_fsn: España es *poderosa*
+- es_mpa: *Los* Celtas son *poderosos*
+- es_mpn: ... son *poderosos*
+- es_fpa: *Las* Islas son *poderosas*
+- es_fpn: ... son *poderosas*
+
+Russian:
+- ru_m: Ирак объяви*л* войну
+- ru_f: Германия объяви*ла* войну
+- ru_n: Семиречье объяви*ло* войну
+- ru_pl: США объяви*ли* войну
+
+Polish:
+- pl_ms:
+- pl_fs:
+- pl_mp:
+- pl_fp:
+
+Italian:
+-
+
+Portuguese - same as Spanish, but with *pt_* instead of *es_*
