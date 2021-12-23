@@ -1,0 +1,113 @@
+# Recognized prefix list
+
+## Colonial
+link = { prefix_rule = "new_prefix" english_loc = "New " }
+
+## Gov type difference
+link = { prefix_rule = "theo_prefix" english_loc = "Anointed " }
+link = { prefix_rule = "burg_prefix" english_loc = "Bourgeois " }
+link = { prefix_rule = "noble_prefix" english_loc = "Noble " }
+
+## Rank difference
+link = { prefix_rule = "emperor_prefix" english_loc = "Imperial " }
+link = { prefix_rule = "viceroy_prefix" english_loc = "Viceroyal " }
+link = { prefix_rule = "king_prefix" english_loc = "Royal " }
+link = { prefix_rule = "marquis_prefix" english_loc = "Marquisal " }
+link = { prefix_rule = "palatine_prefix" english_loc = "Palatine " }
+link = { prefix_rule = "duke_prefix" english_loc = "Ducal " }
+link = { prefix_rule = "count_prefix" english_loc = "Comital " }
+link = { prefix_rule = "baron_prefix" english_loc = "Baronal " }
+
+## Cultural difference
+link = { prefix_rule = "afghan_prefix" english_loc = "Afghano-" }
+link = { prefix_rule = "alan_prefix" english_loc = "Alano-" }
+link = { prefix_rule = "albanian_prefix" english_loc = "Albano-" }
+link = { prefix_rule = "andalusian_prefix" english_loc = "Andaluso-" }
+link = { prefix_rule = "anglo_saxon_prefix" english_loc = "Anglo-" }
+link = { prefix_rule = "armenian_prefix" english_loc = "Armeno-" }
+link = { prefix_rule = "assyrian_prefix" english_loc = "Assyro-" }
+link = { prefix_rule = "basque_prefix" english_loc = "Vasco-" }
+link = { prefix_rule = "bavarian_prefix" english_loc = "Bavaro-" }
+link = { prefix_rule = "bedouin_prefix" english_loc = "Arabo-" }
+link = { prefix_rule = "belgae_prefix" english_loc = "Belgo-" }
+link = { prefix_rule = "bengali_prefix" english_loc = "Bangla-" }
+link = { prefix_rule = "bolghar_prefix" english_loc = "Bulgaro-" }
+link = { prefix_rule = "bosnian_prefix" english_loc = "Bosno-" }
+link = { prefix_rule = "breton_prefix" english_loc = "Breto-" }
+link = { prefix_rule = "brythonic_prefix" english_loc = "Brythono-" }
+link = { prefix_rule = "bulgarian_prefix" english_loc = "Bulgaro-" }
+link = { prefix_rule = "carthaginian_prefix" english_loc = "Carthago-" }
+link = { prefix_rule = "cisalpine_prefix" english_loc = "Cisalpino-" }
+link = { prefix_rule = "cornish_prefix" english_loc = "Corno-" }
+link = { prefix_rule = "croatian_prefix" english_loc = "Croato-" }
+link = { prefix_rule = "cumbrian_prefix" english_loc = "Cumbro-" }
+link = { prefix_rule = "czech_prefix" english_loc = "Czecho-" }
+link = { prefix_rule = "dacian_prefix" english_loc = "Daco-" }
+link = { prefix_rule = "dalmatian_prefix" english_loc = "Dalmato-" }
+link = { prefix_rule = "danish_prefix" english_loc = "Dano-" }
+link = { prefix_rule = "dutch_prefix" english_loc = "Batavo-" }
+link = { prefix_rule = "egyptian_prefix" english_loc = "Egypto-" }
+link = { prefix_rule = "english_prefix" english_loc = "Anglo-" }
+link = { prefix_rule = "ethiopian_prefix" english_loc = "Abyssino-" }
+link = { prefix_rule = "etruscan_prefix" english_loc = "Tosco-" }
+link = { prefix_rule = "finnish_prefix" english_loc = "Fenno-" }
+link = { prefix_rule = "frankish_prefix" english_loc = "Franco-" }
+link = { prefix_rule = "french_prefix" english_loc = "Franco-" }
+link = { prefix_rule = "frisian_prefix" english_loc = "Friso-" }
+link = { prefix_rule = "gaelic_prefix" english_loc = "Gaelo-" }
+link = { prefix_rule = "galatian_prefix" english_loc = "Galato-" }
+link = { prefix_rule = "gallic_prefix" english_loc = "Gallo-" }
+link = { prefix_rule = "georgian_prefix" english_loc = "Georgio-" }
+link = { prefix_rule = "german_prefix" english_loc = "Teuto-" }
+link = { prefix_rule = "getian_prefix" english_loc = "Geto-" }
+link = { prefix_rule = "gothic_prefix" english_loc = "Gotho-" }
+link = { prefix_rule = "greek_prefix" english_loc = "Greco-" }
+link = { prefix_rule = "han_prefix" english_loc = "Sino-" }
+link = { prefix_rule = "hebrew_prefix" english_loc = "Judeo-" }
+link = { prefix_rule = "hungarian_prefix" english_loc = "Magyaro-" }
+link = { prefix_rule = "iberian_prefix" english_loc = "Ibero-" }
+link = { prefix_rule = "irish_prefix" english_loc = "Hiberno-" }
+link = { prefix_rule = "italian_prefix" english_loc = "Italo-" }
+link = { prefix_rule = "jurchen_prefix" english_loc = "Manchu-" }
+link = { prefix_rule = "kirghiz_prefix" english_loc = "Kyrgyzo-" }
+link = { prefix_rule = "kurdish_prefix" english_loc = "Kurdo-" }
+link = { prefix_rule = "latgalian_prefix" english_loc = "Letto-" }
+link = { prefix_rule = "lithuanian_prefix" english_loc = "Litto-" }
+link = { prefix_rule = "lusoiberian_prefix" english_loc = "Luso-" }
+link = { prefix_rule = "mashriqi_prefix" english_loc = "Syro-" }
+link = { prefix_rule = "mongol_prefix" english_loc = "Mongolo-" }
+link = { prefix_rule = "norwegian_prefix" english_loc = "Norvego-" }
+link = { prefix_rule = "nubian_prefix" english_loc = "Sudano-" }
+link = { prefix_rule = "oghuz_prefix" english_loc = "Turko-" }
+link = { prefix_rule = "old_egyptian_prefix" english_loc = "Egypto-" }
+link = { prefix_rule = "ostrogothic_prefix" english_loc = "Ostrogotho-" }
+link = { prefix_rule = "outremer_prefix" english_loc = "Christo-" }
+link = { prefix_rule = "persian_prefix" english_loc = "Perso-" }
+link = { prefix_rule = "phoenician_prefix" english_loc = "Lebano-" }
+link = { prefix_rule = "polish_prefix" english_loc = "Polono-" }
+link = { prefix_rule = "portuguese_prefix" english_loc = "Luso-" }
+link = { prefix_rule = "prussian_prefix" english_loc = "Prusso-" }
+link = { prefix_rule = "rhaetian_prefix" english_loc = "Rheto-" }
+link = { prefix_rule = "roman_prefix" english_loc = "Latino-" }
+link = { prefix_rule = "russian_prefix" english_loc = "Russo-" }
+link = { prefix_rule = "saxon_prefix" english_loc = "Saxo-" }
+link = { prefix_rule = "scots_prefix" english_loc = "Scoto-" }
+link = { prefix_rule = "scythian_prefix" english_loc = "Scytho-" }
+link = { prefix_rule = "serbian_prefix" english_loc = "Serbo-" }
+link = { prefix_rule = "sicilian_prefix" english_loc = "Siculo-" }
+link = { prefix_rule = "slovien_prefix" english_loc = "Slovako-" }
+link = { prefix_rule = "suebi_prefix" english_loc = "Svevo-" }
+link = { prefix_rule = "swabian_prefix" english_loc = "Svevo-" }
+link = { prefix_rule = "swedish_prefix" english_loc = "Sueco-" }
+link = { prefix_rule = "tajik_prefix" english_loc = "Tajico-" }
+link = { prefix_rule = "thracian_prefix" english_loc = "Thraco-" }
+link = { prefix_rule = "urslavic_prefix" english_loc = "Slavo-" }
+link = { prefix_rule = "visigothic_prefix" english_loc = "Visigotho-" }
+link = { prefix_rule = "welsh_prefix" english_loc = "Cambro-" }
+
+## Fallbacks
+link = { prefix_rule = "hither_prefix" english_loc = "Hither " }
+link = { prefix_rule = "further_prefix" english_loc = "Further " }
+
+## EU4 prefix that should be lost upon conversion
+link = { prefix_rule = "no_prefix" english_loc = "Revolutionary " }
