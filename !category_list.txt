@@ -25,6 +25,9 @@ thus used for the majority of entries.
 The other four classes (de_m, de_f, de_s, de_pl) respectively say which
 article is to be used with the noun. de_m will use der (masculine),
 de_f die (feminine), de_s das (neuter) and de_pl die (plural).
+The de_a class is a special category referring to entries named after
+people (something on the line of "The Spanish"). They would use plural
+articles, but also have a special preposition use modded in.
 
 SPANISH and PORTUGUESE:
 Classes describe the entry's gender (m or f), number (s or p) and
