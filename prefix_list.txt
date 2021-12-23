@@ -111,3 +111,4 @@ link = { prefix_rule = "further_prefix" english_loc = "Further " }
 
 ## EU4 prefix that should be lost upon conversion
 link = { prefix_rule = "no_prefix" english_loc = "Revolutionary " }
+link = { prefix_rule = "no_prefix" english_loc = "The " }
