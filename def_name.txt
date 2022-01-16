@@ -1,0 +1,33 @@
+### ARTICLE ADDING BY CLASS
+### IF A CLASS IS NOT LISTED, NO ARTICLE WILL BE SUPPLIED
+### PLEASE INCLUDE SPACE IF NEEDED
+
+### THIS IS USED ONLY FOR HOI4 AND CK3
+
+link = { language = english class = en_s article = "" }
+# link = { language = english class = en_a article = "The " }
+link = { language = english class = en_pl article = "" }
+
+link = { language = french class = fr_msac article = "Le " }
+link = { language = french class = fr_fsac article = "La " }
+link = { language = french class = fr_msav article = "L'" }
+link = { language = french class = fr_fsav article = "L'" }
+link = { language = french class = fr_mpa article = "Les " }
+link = { language = french class = fr_fpa article = "Les " }
+
+link = { language = german class = de_n article = "" }
+link = { language = german class = de_f article = "Die " }
+link = { language = german class = de_m article = "Der " }
+link = { language = german class = de_s article = "Das " }
+link = { language = german class = de_pl article = "Die " }
+link = { language = german class = de_a article = "Die " }
+
+link = { language = spanish class = es_msa article = "El " }
+link = { language = spanish class = es_fsa article = "La " }
+link = { language = spanish class = es_mpa article = "Los " }
+link = { language = spanish class = es_fpa article = "Las " }
+
+link = { language = braz_por class = pt_msa article = "O " }
+link = { language = braz_por class = pt_fsa article = "A " }
+link = { language = braz_por class = pt_mpa article = "Os " }
+link = { language = braz_por class = pt_fpa article = "As " }
