@@ -1,0 +1,56 @@
+french = {
+	# Special cases
+	link = { source = "(.+)allemande" adj = "(.+)germano" }
+	link = { source = "(.+)autrichienne" adj = "(.+)austro" }
+	link = { source = "(.+)chinoise" adj = "(.+)sino" }
+	link = { source = "(.+)espagnole" adj = "(.+)hispano" }
+	link = { source = "(.+)grecque" adj = "(.+)gréco" }
+	link = { source = "(.+)hongroise" adj = "(.+)magyaro" }
+	link = { source = "(.+)japonaise" adj = "(.+)nippo" }
+	link = { source = "(.+)portugaise" adj = "(.+)luso" }
+	link = { source = "(.+)suisse" adj = "(.+)helvéto" }
+	link = { source = "(.+)bosniaque" adj = "(.+)bosno" }
+	link = { source = "(.+)gauloise" adj = "(.+)gallo" }
+	link = { source = "(.+)britannique" adj = "(.+)britanno" }
+	link = { source = "(.+)américaine" adj = "(.+)américano" }
+	# Usual endings
+	link = { source = "(.+)aine" adj = "(.+)o" }
+	link = { source = "(.+)çaise" adj = "(.+)co" }
+	link = { source = "(.+)aise" adj = "(.+)o" }
+	link = { source = "(.+)ienne" adj = "(.+)o" }
+	link = { source = "(.+)çoise" adj = "(.+)co" }
+	link = { source = "(.+)oise" adj = "(.+)o" }
+	link = { source = "(.+)onne" adj = "(.+)o" }
+	link = { source = "(.+)tique" adj = "(.+)to" }
+	link = { source = "(.+)èque" adj = "(.+)éco" }
+	link = { source = "(.+)ègue" adj = "(.+)égo" }
+	link = { source = "(.+)que" adj = "(.+)co" }
+	link = { source = "(.+)gue" adj = "(.+)go" }
+	link = { source = "(.+)a" adj = "(.+)o" }
+	link = { source = "(.+)e" adj = "(.+)o" }
+	link = { source = "(.+)i" adj = "(.+)o" }
+	link = { source = "(.+)o" adj = "(.+)o" }
+	link = { source = "(.+)u" adj = "(.+)uvo" }
+	link = { source = "(.+)" adj = "(.+)o" } # Fallback
+}
+
+spanish = {
+  link = { source = "(.+)inglesa" adj = "(.+)anglo" }
+  link = { source = "(.+)griega" adj = "(.+)greco" }
+  link = { source = "(.+)francesa" adj = "(.+)franco" }
+  link = { source = "(.+)portuguesa" adj = "(.+)luso" }
+  link = { source = "(.+)alemana" adj = "(.+)germano" }
+  link = { source = "(.+)italiana" adj = "(.+)ítalo" }
+  link = { source = "(.+)india" adj = "(.+)indo" }
+  link = { source = "(.+)rusa" adj = "(.+)ruso" }
+  link = { source = "(.+)china" adj = "(.+)sino" }
+  link = { source = "(.+)dinamarquesa" adj = "(.+)dano" }
+  link = { source = "(.+)finlandesa" adj = "(.+)fino" }
+  link = { source = "(.+)colombiana" adj = "(.+)colombo" }
+  link = { source = "(.+)serbia" adj = "(.+)serbo" }
+  link = { source = "(.+)española" adj = "(.+)hispano" }
+  link = { source = "(.+)austríaca" adj = "(.+)austro" }
+  link = { source = "(.+)suecia" adj = "(.+)sueco" }
+  # Couldn't find rules for others
+  link = { source = "(.+)" adj = "(.+)" }
+}
