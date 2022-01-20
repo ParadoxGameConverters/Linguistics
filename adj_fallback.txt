@@ -1,0 +1,14 @@
+### Fallbacks to use if no adjective is given in the glossary table and there is no adjective
+### in the source game.
+### $COUNTRY$ used to mean the polity's bare name (e.g. "England")
+
+link = { language = english adjective = "$COUNTRY$'s" }
+link = { language = french adjective = "de $COUNTRY$" }
+link = { language = german adjective = "$COUNTRY$-" } # It is meant to be *before* nouns, so it can't be a von-X construction
+link = { language = spanish adjective = "de $COUNTRY$" }
+link = { language = polish adjective = "$COUNTRY$-tego" } # Result would sound like "England-its"
+link = { language = russian adjective = "$COUNTRY$-его" } # Ditto
+link = { language = portuguese adjective = "de $COUNTRY$" }
+link = { language = italian adjective = "di $COUNTRY$" }
+link = { language = korean adjective = "$COUNTRY$" }
+link = { language = simp_chinese adjective = "$COUNTRY$" }
