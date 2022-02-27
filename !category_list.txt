@@ -2,9 +2,11 @@ GUIDE WITH CLASSES
 
 ENGLISH:
 The article field is either empty or has "The " (space included).
-There are two classes, en_s for singular nouns, en_pl for plural nouns.
+There are three classes, en_s for singular nouns, en_pl for plural nouns*, en_a for singular nouns with article.
 en_s: France is great
-en_pl: Barbarians are great
+en_a: The Ukraine is great
+en_pl: The Barbarians are great
+*All plural nouns have article by definition
 
 FRENCH:
 The classes describe the gender (m or f), the number (s or v), the use of article (a or n)
