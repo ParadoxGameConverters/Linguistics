@@ -1,0 +1,12 @@
+# To be converted into regex
+# Until then, read $ as "Starts with", € as "Ends with", > as "assign category", | as "or"
+### TO DO: IMPLEMENT ISLAND-PENINSULA SPECIAL CASES: на Кубу instead of в Кубу.
+
+## Special cases
+
+
+## Generic combinations
+€[y] > pl_pl
+€[a|ść|szcz] > pl_f
+€[i|o|e|um|ę] > pl_n
+Ɐ > pl_m # Anything else -> masculine
