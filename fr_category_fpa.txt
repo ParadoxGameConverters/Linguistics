@@ -1,0 +1,73 @@
+## This is a list of all French polity names that would use "Les " in front of them and are feminine
+## Add one per line, without the article
+Abacos
+Alpes Carniques
+Alpes Cottiennes
+Alpes Grées
+Alpes Maritimes
+Alpes Rhétiques
+Antilhas
+Antilles
+Aru
+Asturies
+Asturies du Nord
+Asturies du Sud
+Açores
+Bahamas
+Bermudes
+Caraïbes
+Cités de Tcherven
+Collines dorées
+Comores
+Comtés Orientales
+Cornouailles
+Cyclades
+Deux Siciles
+Donji Kraji
+Flandres
+Féroé
+Grandes Antilles
+Gymésies
+Highlands
+Hébrides Intérieures
+Ilocos
+Kiribati
+Lingga
+Lowlands
+Maldives
+Malouines
+Moluques
+Petites Antilles
+Philippines
+Pouilles
+Provinces-Unies
+Ryûkyû
+Seychelles
+Sporades
+Sula
+Tiwi
+Treize Colonies
+Trois Ligues
+Tuvalu
+Visayas
+Xilotépèques
+Îles
+Îles Baléares
+Îles Bonin
+Îles Christmas et Cocos
+Îles de l'Atlantique Sud
+Îles de la Société
+Îles de la Sonde
+Îles des Caraïbes
+Îles Féroé
+Îles Galápagos
+Îles Gilbert
+Îles Hawaï
+Îles Ioniennes
+Îles Kouriles
+Îles Marshall
+Îles Midway
+Îles Salomon
+Îles Tuamotu
+Îles Turques
+Îles Égéennes
