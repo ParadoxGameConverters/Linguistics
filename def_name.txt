@@ -4,16 +4,15 @@
 
 ### THIS IS USED ONLY FOR HOI4 AND CK3
 
-link = { language = english class = en_s article = "" }
-# link = { language = english class = en_a article = "The " }
-link = { language = english class = en_pl article = "" }
+link = { language = english class = en_category_1 article = "The " } # Singular
+link = { language = english class = en_category_2 article = "The " } # Plural
 
-link = { language = french class = fr_msac article = "Le " }
-link = { language = french class = fr_fsac article = "La " }
-link = { language = french class = fr_msav article = "L'" }
-link = { language = french class = fr_fsav article = "L'" }
-link = { language = french class = fr_mpa article = "Les " }
-link = { language = french class = fr_fpa article = "Les " }
+link = { language = french class = fr_category_msac article = "Le " }
+link = { language = french class = fr_category_fsac article = "La " }
+link = { language = french class = fr_category_msav article = "L'" }
+link = { language = french class = fr_category_fsav article = "L'" }
+link = { language = french class = fr_category_mpa article = "Les " }
+link = { language = french class = fr_category_fpa article = "Les " }
 
 link = { language = german class = de_n article = "" }
 link = { language = german class = de_f article = "Die " }
