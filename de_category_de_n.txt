@@ -1,0 +1,100 @@
+## This is a list of all German polity names that would use "Das " in front of them
+## Add one per line, without the article
+Aarlud-Khanat
+Albionisches Reich
+Andyk
+Angoumois
+Antigonidenreich
+Arbeiter-Commonwealth
+Armagnac
+Außerirdisches Reich
+Aïr
+Bahmani
+Banat
+Barrois
+Baskenland
+Bengal-Delta
+Bosporanische Königreich
+Bourbonnais
+Burgund
+Béarn
+Chalcha-Proletariat
+Choarische
+Chola
+Deutsches Proletariat
+Dijonnais
+Drusentum
+Durrani-Rei
+Elefantum
+Erzgebirge
+Escambray-Gebirge
+Esperantum
+Etschtal
+Fouta Djallon
+Friaul
+Gemeinschaft Rom
+Großherzogtum Warschau
+Guominjun-Reich
+Gältum
+Haut-Poitou
+Heiliges Römisches Reich
+Herzogtum der Sueben
+Hospitalisches Proletariat
+HRR
+Ilchanat
+Inntal
+Islamischer Staat
+Kalifat
+Karminrotes Reich
+Keltisches
+Khmer-Reich
+Kopet-Dag-Gebirge
+Krain
+Königreich der Sueben
+Königreich Gottes
+Königreich Italien
+Königreich Neapel
+Königreich Westfalen
+Languedoc
+Lateinisches Reich
+Limousin
+Livländisches Proletariat
+Lyonnais
+Massina
+Memelland
+Ming-Imperium
+Mitteldelta
+Mongolisches Khanat
+Mongolisches Reich
+Mossi Königreich
+Nation des Islam
+Niederpoitou
+Niedriges Land
+Nordsee-Reich
+Nordtarimbecken
+Nördliches Territorium
+Obsidian-Imperium
+Orden des Heiligen Josef
+Osmanisches Reich
+Ostdelta
+Pacifico Norte
+Pamir
+Poende
+Pontisches Gebirge
+Qasim Khanat
+Qing-Imperium
+Regionszentrum
+Rozwi-Reich
+Ruperts Land
+Römisches Reich
+Südtarimbecken
+Tangerische
+Territorium im Indischen Ozean
+Türkisches Kalifat
+Vindhya
+Vindhya Perstha
+Westdelta
+Yarkand Khanat
+Yarkand-Proletariat
+Yuan-Reich
+Yukon Gebiet
