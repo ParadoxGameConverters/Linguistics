@@ -10,6 +10,7 @@
 # Genitive the same as nominative
 "^(.+)$" = { limit_class = "de_f" genitive = "$1" } # Slowakei --> Slowakei
 "^(.+)$" = { limit_class = "de_pl" genitive = "$1" } # Niederlände --> Niederlände
+"^(.+)$" = { limit_class = "de_anim" genitive = "$1" } # Goten --> Goten
 
 # Fallback and general case
 "^(.+)$" = { genitive = "$1s" } # Deutschland --> Deutschlands
