@@ -14,12 +14,11 @@ link = { language = french class = fr_category_fsav article = "L'" }
 link = { language = french class = fr_category_mpa article = "Les " }
 link = { language = french class = fr_category_fpa article = "Les " }
 
-link = { language = german class = de_n article = "" }
 link = { language = german class = de_f article = "Die " }
 link = { language = german class = de_m article = "Der " }
-link = { language = german class = de_s article = "Das " }
+link = { language = german class = de_n article = "Das " }
 link = { language = german class = de_pl article = "Die " }
-link = { language = german class = de_a article = "Die " }
+link = { language = german class = de_anim article = "Die " }
 
 link = { language = spanish class = es_msa article = "El " }
 link = { language = spanish class = es_fsa article = "La " }
