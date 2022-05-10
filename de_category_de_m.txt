@@ -1,0 +1,71 @@
+## This is a list of all German polity names that would use "Der " in front of them
+## Add one per line, without the article
+Agan
+Alentejo
+Altai
+Altai Uriankhai
+Altamaha
+Amazonas
+Arnotal
+Aurès
+Azawad
+Azawagh
+Bagoé
+Beobachter
+Brennender Reich
+Calenberg
+Charolais
+Cherlen
+Chinko
+Chrysaorischer Bund
+Cotentin
+Delischer Seebund
+Deutscher Orden
+District of Columbia
+Douro
+Dschabal Schammar
+Dschugdschur
+Eiriksfjord
+Fessan
+Forez
+Fouta Toro
+Grabenbruch
+Haag
+Hellenischer Bund
+Himalaya
+Hodenosaunee-Bund
+Irak
+Irak-Adschemi
+Irtysch
+Italiotischer Bund
+Kalar
+Kap
+Kirchenstaat
+Korinthischer Bund
+Kysylsuu
+Königsboden
+Libanon
+Logone
+Luangwa
+Maghreb
+Manhartsberg
+Maros
+Nesiotenbund
+Nordjemen
+Nordkaukasus
+Papsttum der Sueben
+Peloponnesischer Bund
+Pfalz
+Phokäischer Bund
+Pindus
+Rheinbund
+Senat der Sueben
+Synthetik
+Timurid
+Tschad
+Tschagatai-Khanat
+Tschagatai-Proletariat
+Uaso Nyiro
+Unterdon
+Westnesiotischer Bund
+Zwölfstädtebund
