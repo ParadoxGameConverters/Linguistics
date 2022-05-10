@@ -1,0 +1,4 @@
+## This is a list of all English polity names that use no article but are grammatically masc. pl.
+## Add one per line, without the article
+Los Altos
+Los Ríos
