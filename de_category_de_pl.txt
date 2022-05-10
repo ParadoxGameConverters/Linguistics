@@ -1,0 +1,74 @@
+## This is a list of all German polity names that would use "Die " in front of them and are plural (inanimate)
+## Add one per line, without the article
+Abhira
+Abruzzen
+Afladsch
+Akamatsu
+Aleuten
+Andamanen
+Antillen
+Azoren
+Bahamas
+Balearische Inseln
+Bonin-Inseln
+Chaubisi Rajya
+Circars
+Cottische Alpen
+Drei Ligen
+Dreizehn Kolonien
+Falklandinseln
+Freie Staaten von Amerika
+Färöer
+Galapagosinseln
+Gallien
+Gesellschaftsinseln
+Gilbertinseln
+Grajische Alpen
+Große Antillen
+Guamar
+Guamares
+Gymnesianen
+Hawaii-Inseln
+Highlands
+Innere Hebriden
+Inseln
+Ionische Inseln
+Karibische Inseln
+Karnische Alpen
+Kleine Antillen
+Komoren
+KSA
+Kurilen
+Kykladen
+Llanos
+Lowlands
+Malediven
+Marshallinseln
+Midwayinseln
+Nordghats
+Nordwestliche Territorien
+Ostgrafschaften
+Philippinen
+Rätische Alpen
+Seealpen
+Siebengäu
+Sporaden
+Südatlantische Inseln
+Südghats
+Turksinseln
+USA
+Vereinigte Mittelamerika
+Vereinigte Provinzen
+Vereinigte Staaten
+Vereinigte Staaten von Amerika
+Vereinigte Staaten von Mittelamerika
+Vereinigtes Königreich
+Waldstätte
+Weihnachts- und Kokosinseln
+Westgoten
+Westindische Inseln
+Yoruba-Staaten
+Zwei Sizilien
+Ägäische Inseln
+Äußere Hebriden
+Åland
