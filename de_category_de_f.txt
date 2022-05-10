@@ -1,0 +1,160 @@
+## This is a list of all German polity names that would use "Die " in front of them and are singular
+## Add one per line, without the article
+Algarve
+Altmark
+Anatolische Republik
+Angara
+Arabische Demokratische Union
+Arabische Union
+Barabasteppe
+Berberei
+Bresse
+Bretagne
+Brigantei
+Bukowina
+Cambaluc-Republ
+Capitanata
+Chalcha-Republik
+Champagne
+Charga
+Dauphiné
+Deutsche Union
+Dobrudscha
+Dominikanische Republik
+Don-Kuban-Union
+Dsungarei
+DVR Korea
+Elfenbeinküste
+Epikratie
+Equador-Konföderation
+Erfurter Union
+Extremadura
+Freigrafschaft
+Gascogne
+Gobi
+Goldene Horde
+Goldene Republik
+Große Horde
+Große Republik
+Großkaroo
+Guangxi-Clique
+Hanse
+Heilige Römische Herrschaftslosigkeit
+Heilige Römische Republik
+Helvetei
+Hudson Bay
+Innere Mongolei
+Isla Juana
+Islamische Republik
+Kabylei
+Kaledonische Konföderation
+Kalontei
+Kapkolonie
+Kapküste
+Karakum
+Karibik
+Kaukoei
+Keltikei
+Keltische Union
+Kilikische Ebene
+Kirenga
+Kolyma
+Kommune der Sueben
+Kommune Manhattan
+Konföderation von Metis
+Koporei
+Koriondei
+Kugernei
+Kutei
+Küste unter dem Wind
+Lakanei
+Lateinische Anarchie
+Lateinische Republik
+Libysche Wüste
+Lika
+Loire
+Lombardei
+Mamertinische Republik
+Mandschurei
+Marsaden-Republik
+Massäsylei
+Mündung
+Nanking-Republik
+Neue Vorsehung
+Norddeutsche Fed
+Oirat Horde
+Oirat Proletariat
+Oirat Republik
+Orinoko-Delta
+Ostschweiz
+Parthenopäische Republik
+Pegaya Orda
+Pekinger Republik
+Peloponnes
+Peru-Bolivien-Konföderation
+Picentei
+Pälignei
+Qasim-Proletariat
+Qin-Dynastie
+Ratakenei
+Republik Albion
+Republik China
+Republik China-Mongolei
+Republik der Sueben
+Republik Italien
+Republik Kongo
+Republik Qasim
+Republik Qin
+Republik Shun
+Republik Westfalen
+Republik Wu
+Republik Xi
+Republik Xia
+Römische Anarchie
+Satrapie von Mazedonien
+Satrapie von Persien
+Satrapie von Ägypten
+Schei
+Shun-Dynastie
+Slawische Union
+Sowjetunion
+SSR Kasachstan
+SSR Kirgisistan
+SSR Tadschikistan
+SSR Turkmenistan
+SSR Usbekistan
+Syrakusische Tyrannei
+Süddeutsche Fed
+Toskana
+Tschagatai-Republik
+Tschechische Republik
+Tschechoslowakei
+Turdulei
+Ungarische Tiefebene
+Union der roten Themen
+Union des Maritimes
+Union von Rhomania
+Union von Rom
+Untote Horde
+Vocatei
+Volksrepublik China
+Volksrepublik Qin
+Volksrepublik Rom
+Volksrepublik Shun
+Volksrepublik Sino-Mongolei
+Volksrepublik Wu
+Volksrepublik Xi
+Volksrepublik Xia
+Walachei
+Weihnachtsinsel
+Westschweiz
+Wu Republik
+Wu-Dynastie
+Wüste Bayuda
+Xi-Dynastie
+Xia Republik
+Xia-Dynastie
+Yarkand Republik
+Ägyptische Wüste
+Äußere Mandschurei
+Île-de-France
