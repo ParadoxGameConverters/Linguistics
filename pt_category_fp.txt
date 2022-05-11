@@ -1,0 +1,123 @@
+## This is a list of all Portuguese polity names that would use "As " in front of them
+## Add one per line, without the article
+Afrodisias
+Antilhas
+Astúrias
+Astúrias de Oviedo
+Astúrias de Santillana
+Baachinena
+Babruiskas
+Bahamas
+Baleares
+Balearides
+Barras
+Beafada
+Bermudas
+Biapas
+Burtas
+Canárias
+Cerejeiras
+Charcas
+Chichas
+Chichimecas
+Cidades de Cherven
+Colinas de Mugodzhar
+Colinas Douradas
+Comores
+comox
+Curilas
+Cíclades
+Duas Sicílias
+Engrenagens do Báltico
+Engrenagens do Mar do Norte
+Eoras
+Esmeraldas
+espórades
+Faroe
+Fiji
+Filipinas
+Flores
+Fogaras
+Galeras da Ligúria
+Galeras do Adriático
+Gardinas
+Gespegeogag
+Grandes Antilhas
+Hailas
+Hasinai
+Honduras
+Hébridas Exteriores
+Hébridas Interiores
+Ilhas
+Ilhas Bonin
+Ilhas da Sociedade
+Ilhas da Sonda
+Ilhas de Natal e Cocos
+Ilhas do Atlântico Sul
+Ilhas do Caribe
+Ilhas do mar Egeu
+Ilhas Galápagos
+Ilhas Gilbert
+ilhas havaianas
+Ilhas Jônicas
+Ilhas Marshall
+Ilhas Salomão
+Ilhas Tuamotu
+Ilhas turcas
+Iolas
+Kalongas
+Kitaras
+Kunas
+Larraquias
+Lenape
+Luninecas
+Maias
+Malaias
+Maldivas
+Malganas
+Malvinas
+Mandaras
+Manyikas
+Margis
+Maurícias
+Midlands
+Minas Gerais
+Misiones
+Mixtec
+Molucas
+Morongas
+Mosopeleas
+Muiscas
+Nakipa
+Naugardas
+Oneida
+Paropamisadae
+Pepikokia
+Pequenas Antilhas
+Pitahawirata
+Planícies
+Províncias Unidas
+Puquinas
+Quillacas
+Salinas
+Sayultecas
+Seychelles
+Shatteras
+Shetland
+Tabas
+Tachibanas
+Taironas
+Tartas
+Terras Altas
+Treze Colônias
+Três Ligas
+Tsimihety
+Tsuu T'ina
+Turas
+Visayas
+Wadopabinas
+Wichiyena
+Xecora
+Índias Ocidentais
+Órcades
+Žlobinas
